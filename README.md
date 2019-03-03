@@ -13,7 +13,7 @@
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-## API Documentation
+# API Documentation
 
 Dokumentasi API terkait Aplikasi HaloScomptec
 
@@ -32,3 +32,33 @@ Dokumentasi API terkait Aplikasi HaloScomptec
 |11. | /API/kelembagaan/delete | POST | id,token | kode , pesan |
 |12. | /API/kelembagaan/show | POST | token | kode , pesan , data |
 |13. | /API/kelembagaan/find | POST | id,token | kode , pesan , data|
+
+# Changelog
+Semua perubahan yang ada di aplikasi Android HaloScomptec akan di catat di bawah ini
+
+## [Unreleased]
+
+## [0.3.1] - 2019-02-26
+### Added
+- Insert data kelembagaan .
+- Update data kelembagaan .
+- Delete data kelembagaan .
+- Cari & GET data kelembagaan .
+
+## [0.2.1] - 2019-02-20
+### Added
+- Reset Password .
+- Ubah informasi user .
+- Splash Screen .
+
+### Changed
+- Informasi terkait perubahan password & Registrasi dikirim melalui Email .
+- Get Data User & Ubah informasi memakai Token .
+- Tampilan login .
+
+## [0.0.1] - 2019-02-06
+### Added
+- Registrasi user.
+- Login user.
+- Ganti password .
+- Ambil data user .
