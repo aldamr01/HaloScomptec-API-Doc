@@ -38,26 +38,26 @@ Semua perubahan yang ada di aplikasi Android HaloScomptec akan di catat di bawah
 
 ## [Unreleased]
 
-## [0.3.1] - 2019-02-26
-### Added
+### [0.3.1] - 2019-02-26
+#### Added
 - Insert data kelembagaan .
 - Update data kelembagaan .
 - Delete data kelembagaan .
 - Cari & GET data kelembagaan .
 
-## [0.2.1] - 2019-02-20
-### Added
+### [0.2.1] - 2019-02-20
+#### Added
 - Reset Password .
 - Ubah informasi user .
 - Splash Screen .
 
-### Changed
+#### Changed
 - Informasi terkait perubahan password & Registrasi dikirim melalui Email .
 - Get Data User & Ubah informasi memakai Token .
 - Tampilan login .
 
-## [0.0.1] - 2019-02-06
-### Added
+### [0.0.1] - 2019-02-06
+#### Added
 - Registrasi user.
 - Login user.
 - Ganti password .
