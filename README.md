@@ -33,6 +33,12 @@ Dokumentasi API terkait Aplikasi HaloScomptec
 |12. | /API/kelembagaan/show | POST | token | kode , pesan , data |
 |13. | /API/kelembagaan/find | POST | id,token | kode , pesan , data|
 
+# Daftar Akun
+Akun untuk login ke Aplikasi Halo SCOMPTEC
+1. Admin = username : admin , password : admin
+2. Operator = username : operator , password : operator
+3. User = username : adituser , password : 123456
+
 # Changelog
 Semua perubahan yang ada di aplikasi Android HaloScomptec akan di catat di bawah ini
 
