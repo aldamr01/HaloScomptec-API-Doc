@@ -36,6 +36,10 @@ Dokumentasi API terkait Aplikasi HaloScomptec
 |15. | /API/struktur/update | POST | id,token,foto | kode , pesan |
 |16. | /API/struktur/delete | POST | id,token | kode , pesan |
 |17. | /API/struktur/show | POST | token | kode , pesan , data |
+|18. | /API/instruktur/create | POST | token,foto,nama,no_telepon,deskripsi | kode , pesan |
+|19. | /API/instruktur/update | POST | id,token,foto,nama,no_telepon,deskripsi | kode , pesan |
+|20. | /API/instruktur/delete | POST | id,token | kode , pesan |
+|21. | /API/instruktur/show | POST | token | kode , pesan , data |
 
 # Daftar Akun
 Akun untuk login ke Aplikasi Halo SCOMPTEC
@@ -47,6 +51,13 @@ Akun untuk login ke Aplikasi Halo SCOMPTEC
 Semua perubahan yang ada di aplikasi Android HaloScomptec akan di catat di bawah ini
 
 ## [Unreleased]
+
+### [0.5.1] - 2019-03-08
+#### Added
+- Insert daftar instruktur .
+- Update daftar instruktur .
+- Delete daftar instruktur .
+- GET daftar instruktur .
 
 ### [0.4.1] - 2019-03-06
 #### Added
